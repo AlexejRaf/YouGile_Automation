@@ -52,5 +52,5 @@ UI-тесты: 6 тестов
 Пройдено: 11/11
 
 ## Ссылка на полный отчёт в Yonote 
-(https://moytestit.yonote.ru/doc/test-plan-yougile-api-Rz9SXXgbC2#h-vyvody-i-rekomendacii)**
+(https://moytestit.yonote.ru/doc/test-plan-yougile-api-Rz9SXXgbC2#h-vyvody-i-rekomendacii)
 (Тест-план, документация, результаты и рекомендации)
